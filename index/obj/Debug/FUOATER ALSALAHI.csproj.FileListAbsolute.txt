@@ -1,0 +1,30 @@
+C:\Users\ComputerWorld\source\repos\FUOATER ALSALAHI\FUOATER ALSALAHI\bin\Debug\FUOATER ALSALAHI.exe.config
+C:\Users\ComputerWorld\source\repos\FUOATER ALSALAHI\FUOATER ALSALAHI\bin\Debug\FUOATER ALSALAHI.exe
+C:\Users\ComputerWorld\source\repos\FUOATER ALSALAHI\FUOATER ALSALAHI\bin\Debug\FUOATER ALSALAHI.pdb
+C:\Users\ComputerWorld\source\repos\FUOATER ALSALAHI\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.csprojAssemblyReference.cache
+C:\Users\ComputerWorld\source\repos\FUOATER ALSALAHI\FUOATER ALSALAHI\obj\Debug\FUOATER_ALSALAHI.HOME.resources
+C:\Users\ComputerWorld\source\repos\FUOATER ALSALAHI\FUOATER ALSALAHI\obj\Debug\FUOATER_ALSALAHI.Properties.Resources.resources
+C:\Users\ComputerWorld\source\repos\FUOATER ALSALAHI\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.csproj.GenerateResource.cache
+C:\Users\ComputerWorld\source\repos\FUOATER ALSALAHI\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.csproj.CoreCompileInputs.cache
+C:\Users\ComputerWorld\source\repos\FUOATER ALSALAHI\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.exe
+C:\Users\ComputerWorld\source\repos\FUOATER ALSALAHI\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.pdb
+C:\Users\ComputerWorld\Desktop\برنامج الفواتير\FUOATER ALSALAHI\bin\Debug\FUOATER ALSALAHI.exe.config
+C:\Users\ComputerWorld\Desktop\برنامج الفواتير\FUOATER ALSALAHI\bin\Debug\FUOATER ALSALAHI.exe
+C:\Users\ComputerWorld\Desktop\برنامج الفواتير\FUOATER ALSALAHI\bin\Debug\FUOATER ALSALAHI.pdb
+C:\Users\ComputerWorld\Desktop\برنامج الفواتير\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.csprojAssemblyReference.cache
+C:\Users\ComputerWorld\Desktop\برنامج الفواتير\FUOATER ALSALAHI\obj\Debug\FUOATER_ALSALAHI.HOME.resources
+C:\Users\ComputerWorld\Desktop\برنامج الفواتير\FUOATER ALSALAHI\obj\Debug\FUOATER_ALSALAHI.Properties.Resources.resources
+C:\Users\ComputerWorld\Desktop\برنامج الفواتير\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.csproj.GenerateResource.cache
+C:\Users\ComputerWorld\Desktop\برنامج الفواتير\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.csproj.CoreCompileInputs.cache
+C:\Users\ComputerWorld\Desktop\برنامج الفواتير\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.exe
+C:\Users\ComputerWorld\Desktop\برنامج الفواتير\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.pdb
+C:\Users\ComputerWorld\Desktop\شركة الصلاحي\FUOATER ALSALAHI\bin\Debug\FUOATER ALSALAHI.exe.config
+C:\Users\ComputerWorld\Desktop\شركة الصلاحي\FUOATER ALSALAHI\bin\Debug\FUOATER ALSALAHI.exe
+C:\Users\ComputerWorld\Desktop\شركة الصلاحي\FUOATER ALSALAHI\bin\Debug\FUOATER ALSALAHI.pdb
+C:\Users\ComputerWorld\Desktop\شركة الصلاحي\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.csprojAssemblyReference.cache
+C:\Users\ComputerWorld\Desktop\شركة الصلاحي\FUOATER ALSALAHI\obj\Debug\FUOATER_ALSALAHI.HOME.resources
+C:\Users\ComputerWorld\Desktop\شركة الصلاحي\FUOATER ALSALAHI\obj\Debug\FUOATER_ALSALAHI.Properties.Resources.resources
+C:\Users\ComputerWorld\Desktop\شركة الصلاحي\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.csproj.GenerateResource.cache
+C:\Users\ComputerWorld\Desktop\شركة الصلاحي\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.csproj.CoreCompileInputs.cache
+C:\Users\ComputerWorld\Desktop\شركة الصلاحي\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.exe
+C:\Users\ComputerWorld\Desktop\شركة الصلاحي\FUOATER ALSALAHI\obj\Debug\FUOATER ALSALAHI.pdb
